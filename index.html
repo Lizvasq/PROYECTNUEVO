@@ -363,16 +363,16 @@
 		            <h2>Envia un mensaje</h2>
 		            <div class="user_info">
 		                <label for="nombre">Nombres *</label>
-		                <input type="text" id="nombre">
+		                <input type="text" id="nombre" name="nombre">
 
 		                <label for="telefono">Telefono / Celular</label>
-		                <input type="text" id="telefono">
+		                <input type="text" id="telefono" name="telefono">
 
 		                <label for="correo">Correo electronico *</label>
-		                <input type="text" id="correo">
+		                <input type="text" id="correo" name="correo">
 
 		                <label for="mensaje">Mensaje *</label>
-		                <textarea id="mensaje"></textarea>
+		                <textarea id="mensaje" name="mensaje"></textarea>
 
 		                <input type="button" value="Enviar Mensaje" id="btnSend">
 		            </div>
