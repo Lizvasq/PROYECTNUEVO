@@ -362,14 +362,14 @@
         		<form action="sendmail.php" method="post" class="form_contact">
 		            <h2>Envia un mensaje</h2>
 		            <div class="user_info">
-		                <label for="names">Nombres *</label>
-		                <input type="text" id="names">
+		                <label for="nombre">Nombres *</label>
+		                <input type="text" id="nombre">
 
-		                <label for="phone">Telefono / Celular</label>
-		                <input type="text" id="phone">
+		                <label for="telefono">Telefono / Celular</label>
+		                <input type="text" id="telefono">
 
-		                <label for="email">Correo electronico *</label>
-		                <input type="text" id="email">
+		                <label for="correo">Correo electronico *</label>
+		                <input type="text" id="correo">
 
 		                <label for="mensaje">Mensaje *</label>
 		                <textarea id="mensaje"></textarea>
