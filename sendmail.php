@@ -19,4 +19,4 @@ $carta .= "Mensaje: $mensaje";
 //Enviando Mensaje
 
 mail($destinatario, $asunto, $carta); 
-<?
+?>
